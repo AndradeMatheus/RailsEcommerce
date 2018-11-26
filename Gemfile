@@ -57,3 +57,5 @@ gem 'spree', '~> 3.5.0'
 gem 'spree_auth_devise', '~> 3.3'
 gem 'spree_gateway', '~> 3.3'
 #gem 'spree_fancy', :github => 'spree/spree_fancy', :branch => '2-3-stable'
+
+gem 'spree_i18n', github: 'spree/spree_i18n'
